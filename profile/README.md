@@ -1,6 +1,6 @@
-# Barrio Universitario
+# AeroCraft
 
-Bienvenido a **Barrio Universitario**, un colectivo dedicado a construir herramientas y plugins open source para infraestructura de redes de Minecraft. Desarrollamos desde sistemas en el proxy hasta experiencias para el jugador, manteniendo el código limpio, modular y fácil de extender.
+Bienvenido a **AeroCraft**, un colectivo dedicado a construir herramientas y plugins open source para infraestructura de redes de Minecraft. Desarrollamos desde sistemas en el proxy hasta experiencias para el jugador, manteniendo el código limpio, modular y fácil de extender.
 
 ---
 
